@@ -10,4 +10,4 @@ I started by building a function called "kap", which will test to see that a num
 # Skills Demonstrated
 * Python: including seaborn, pandas series, building functions, and mathematical logic
 
-#Full Python Code [Here](https://github.com/aadams10046/Kaprekar_Project/blob/main/kaprekar.py)
+# Full Python Code [Here](https://github.com/aadams10046/Kaprekar_Project/blob/main/kaprekar.py)
