@@ -7,6 +7,7 @@ I started by building a function called "kap", which will test to see that a num
 
 <img src="https://github.com/aadams10046/Kaprekar_Project/blob/main/Kaprekar_Score_Chart.png?raw=true" alt="Graph for Kaprekar Score 1000-9999" title="Kaprekar Results">
 
+One might expect either a normal distribution or a uniform distribution of the Kaprekar scores, but we can see that is not precisely the case. However, it can be said that the results are *roughly* uniform.
 # Skills Demonstrated
 * Python: including seaborn, pandas series, building functions, and mathematical logic
 
